@@ -494,10 +494,6 @@ the Free Software Foundation; either version 2 of the License, or
 
 ---
 
-## 🚀 Ready to Transform Your Customer Support?
-
-**[Download Now](https://github.com/your-repo/wc-ai-chat-support/releases/latest)** | **[View Demo](https://demo.yoursite.com)** | **[Get Support](https://support.yoursite.com)**
-
 ⭐ **If you find this plugin helpful, please consider giving it a star on GitHub!**
 
 ---
